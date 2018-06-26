@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Lib/c3p0-0.9.2.1.jar"/>
+	<classpathentry kind="lib" path="Lib/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="Lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="Lib/mchange-commons-java-0.2.3.4.jar"/>
+	<classpathentry kind="lib" path="Lib/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-aop-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-aspects-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-beans-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-context-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-context-support-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-core-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-expression-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-framework-bom-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-instrument-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-instrument-tomcat-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-jdbc-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-jms-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-messaging-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-orm-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-oxm-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-test-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-tx-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-web-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-webmvc-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-webmvc-portlet-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-websocket-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
