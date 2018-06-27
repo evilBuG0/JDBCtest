@@ -1,0 +1,4 @@
+url=jdbc:mysql://127.0.0.1:3306/imooc?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+diverclass=com.mysql.cj.jdbc.Driver
+name=root
+password=root
